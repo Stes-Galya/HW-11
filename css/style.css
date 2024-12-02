@@ -2,6 +2,10 @@ p{
     font-weight: 350px;
     font-size: 220px;
 
-    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-width:2px;
+    /* border-radius:; */
+    border-style:dashed;
+    background-color: darkgreen;
     
 }
