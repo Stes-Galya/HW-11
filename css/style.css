@@ -1,7 +1,10 @@
 p{
     font-weight: 350px;
     font-size: 220px;
-
+padding-top:  15px;
+padding-left: 10px;
+padding-bottom: 20px;
+padding-right: 10px;
     margin-bottom: 30px;
     border-width:2px;
     /* border-radius:; */
